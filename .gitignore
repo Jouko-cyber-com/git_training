@@ -1,0 +1,11 @@
+basics-materials/*.in
+basics/*.in
+*.in
+
+basics-materials/*.out
+basics/*.out
+*.out
+
+basics-materials/*.pyc
+basics/*.pyc
+*.pyc
